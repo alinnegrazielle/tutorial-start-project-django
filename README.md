@@ -1,6 +1,13 @@
 
 # Startando um Projeto Django no Linux
 
+> ⚠️ Este repositório foi criado durante minha fase inicial de transição de carreira para tecnologia.  
+> 📌 Conteúdo mantido público como referência de aprendizado com Django e ambiente Linux.  
+> ✅ Repositório arquivado para registro educacional.  
+> 🎯 Foco atual: desenvolvimento front-end com React e construção de portfólio.
+
+---
+
 ## Criando o repositório para o Projeto
 
 * Abra o terminal, navegue até a pasta que vai querer criar seu projeto, em Documentos, por exemplo.
