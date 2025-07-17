@@ -4,7 +4,6 @@
 > ⚠️ Este repositório foi criado durante minha fase inicial de transição de carreira para tecnologia.  
 > 📌 Conteúdo mantido público como referência de aprendizado com Django e ambiente Linux.  
 > ✅ Repositório arquivado para registro educacional.  
-> 🎯 Foco atual: desenvolvimento front-end com React e construção de portfólio.
 
 ---
 
